@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+sumy
+lxml_html_clean
+schedule
+selenium
+goose3
+numpy
+nltk
