@@ -16,7 +16,7 @@ BeautifulSoup4Article Content Extraction: Goose3NLP
 NLTKScheduling: ScheduleEmailing: smtplibSetup 
 and InstallationFollow these steps to get the project running on your local machine.**
 
-1. Clone the Repositorygit clone https://github.com/your-username/Financial_News_Summarizer.git
+1. Clone the Repositorygit clone https://github.com/iamaxft/Financial_News_Summarizer.git
 cd Financial_News_Summarizer
 Create a Virtual EnvironmentIt's highly recommended to use a virtual environment to manage project dependencies.
 
